@@ -1,4 +1,7 @@
 # The Vague Reminder
+
+<img width="212" height="196" alt="eyeballimage" src="https://github.com/user-attachments/assets/21eeebad-ea06-47dd-9b71-25a83d656074" />
+
 A strange and unsettling desktop companion that is perpetually disappointed in you.
 
 It lives on your desktop as a single, unblinking eye that silently follows your every move. It doesn't help you. It doesn't entertain you. It simply watches, and occasionally, it will offer a "reminder" in the form of a vague, unsettling, or completely useless notification.
